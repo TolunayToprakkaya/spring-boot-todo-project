@@ -1,0 +1,12 @@
+couchbase:
+  connection-string: couchbase://127.0.0.1
+  user-name: test
+  password: mtt123
+  bucket-todo:
+    name: Todo
+    user-name: Todo
+    password: todo123
+  bucket-user:
+    name: User
+    user-name: User
+    password: user123
